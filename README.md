@@ -11,4 +11,8 @@ O projeto surgiu dia 29/12/2021 e traz ideias de novas ferramentas, armas, armad
 
 Entre em nosso Discord para reportar bugs ou dar sugestões, lá você também pode conversar com outros jogadores e tirar dúvidas diversas sobre qualquer assunto relacionado ao servidor.
 
-![Discord Banner](https://discordapp.com/api/guilds/850031215364145182/widget.png?style=banner3)
+<p align="center">
+  <a href="https://discord.gg/gmebC8VJUP">
+    <img src="https://discordapp.com/api/guilds/850031215364145182/widget.png?style=banner3" alt="Discord Invite"/>
+  </a>
+</p>
