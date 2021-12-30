@@ -49,6 +49,26 @@ A primeira versão do servidor, aonde tudo surgiu, essa foi a versão de lançam
 - Netherite
 - Obsidian
 
+> **Materiais Reforçados:**
+
+- Madeira Reforçada
+- Pedra Reforçada
+- Carvão Reforçado
+- Netherrack Reforçada
+- Cobre Reforçado
+- Ferro Reforçado
+- Ouro Reforçado
+- Quartzo Reforçado
+- Redstone Reforçada
+- Glowstone Reforçada
+- Lápis Reforçada
+- Ametista Reforçada
+- Rubi Reforçada
+- Diamante reforçado
+- Esmeralda reforçada
+- Netherite reforçada
+- Obsidian reforçada
+
 > **Locais:**
 
 - Mina Madeira
