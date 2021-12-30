@@ -7,4 +7,8 @@ Keimuxo 2.0 é um servidor pequeno, hosteado na empresa [Aternos](https://aterno
 
 O projeto surgiu dia 29/12/2021 e traz ideias de novas ferramentas, armas, armaduras e outros itens, é um minigame do qual você deve evoluir com base nos itens quebrados durante a aventura.
 
-![Teste](https://discord.com/widget?id=850031215364145182&theme=dark)
+## 💬 Nosso Discord
+
+Entre em nosso Discord para reportar bugs ou dar sugestões, lá você também pode conversar com outros jogadores e tirar dúvidas diversas sobre qualquer assunto relacionado ao servidor.
+
+![Discord Banner 2](https://discordapp.com/api/guilds/850031215364145182/widget.png?style=banner2)
