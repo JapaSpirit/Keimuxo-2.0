@@ -10,7 +10,6 @@ A primeira versão do servidor, aonde tudo surgiu, essa foi a versão de lançam
 
 > **Picaretas:**
 
-- Picareta de Graveto
 - Picareta de Madeira
 - Picareta de Pedra
 - Picareta de Carvão
@@ -29,48 +28,7 @@ A primeira versão do servidor, aonde tudo surgiu, essa foi a versão de lançam
 - Picareta de Netherite
 - Picareta de Obsidian
 
-> **Materiais:**
-
-- Madeira
-- Pedra
-- Carvão
-- Netherrack
-- Cobre
-- Ferro
-- Ouro
-- Quartzo
-- Redstone
-- Glowstone
-- Lápis
-- Ametista
-- Rubi
-- Diamante
-- Esmeralda
-- Netherite
-- Obsidian
-
-> **Materiais Reforçados:**
-
-- Madeira Reforçada
-- Pedra Reforçada
-- Carvão Reforçado
-- Netherrack Reforçada
-- Cobre Reforçado
-- Ferro Reforçado
-- Ouro Reforçado
-- Quartzo Reforçado
-- Redstone Reforçada
-- Glowstone Reforçada
-- Lápis Reforçada
-- Ametista Reforçada
-- Rubi Reforçada
-- Diamante reforçado
-- Esmeralda reforçada
-- Netherite reforçada
-- Obsidian reforçada
-
 > **Locais:**
 
 - Mina Overworld
-- Mina Underground
 - Mina Nether
