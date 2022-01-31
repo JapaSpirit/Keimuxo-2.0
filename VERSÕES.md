@@ -71,20 +71,6 @@ A primeira versão do servidor, aonde tudo surgiu, essa foi a versão de lançam
 
 > **Locais:**
 
-- Mina Madeira
-- Mina Pedra
-- Mina Carvão
-- Mina Netherrack
-- Mina Cobre
-- Mina Ferro
-- Mina Ouro
-- Mina Quartzo
-- Mina Redstone
-- Mina Glowstone
-- Mina Lápis
-- Mina Ametista
-- Mina Rubi
-- Mina Diamante
-- Mina Esmeralda
-- Mina Netherite
-- Mina Obsidian
+- Mina Overworld
+- Mina Underground
+- Mina Nether
