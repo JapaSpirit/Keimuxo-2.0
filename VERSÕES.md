@@ -29,5 +29,17 @@ A primeira versão do servidor, aonde tudo surgiu, essa foi a versão de lançam
 
 > **Locais:**
 
+- Spawn
 - Mina Overworld
 - Mina Nether
+- Loja
+- Tabela de Liderança
+- Arena PvP
+
+> **Pets:**
+
+- Galinha
+- Vaca
+- Axolote
+- Enderman
+- Blaze
