@@ -13,7 +13,6 @@ A primeira versão do servidor, aonde tudo surgiu, essa foi a versão de lançam
 - Picareta de Madeira
 - Picareta de Pedra
 - Picareta de Carvão
-- Picareta de Netherrack
 - Picareta de Cobre
 - Picareta de Ferro
 - Picareta de Ouro
