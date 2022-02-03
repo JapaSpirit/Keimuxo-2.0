@@ -26,6 +26,7 @@ A primeira versão do servidor, aonde tudo surgiu, essa foi a versão de lançam
 - Picareta de Esmeralda
 - Picareta de Netherite
 - Picareta de Obsidian
+- Picareta de Bedrock
 
 > **Locais:**
 
