@@ -14,8 +14,8 @@ A primeira versão do servidor, aonde tudo surgiu, essa foi a versão de lançam
 - Picareta de Pedra
 - Picareta de Carvão
 - Picareta de Cobre
-- Picareta de Ferro
 - Picareta de Ouro
+- Picareta de Ferro
 - Picareta de Quartzo
 - Picareta de Redstone
 - Picareta de Glowstone
