@@ -28,12 +28,30 @@ A primeira versão do servidor, aonde tudo surgiu, essa foi a versão de lançam
 - Picareta de Obsidian
 - Picareta de Bedrock
 
+> **Armas:**
+
+- Espada de Madeira
+- Machado de Madeira
+- Espada de Pedra
+- Machado de Pedra
+- Espada de Ouro
+- Machado de Ouro
+- Espada de Ferro
+- Machado de Ferro
+- Espada de Diamante
+- Machado de Diamante
+- Espada de Netherite
+- Machado de Netherite 
+- Espada Rápida
+- Machado Pesado
+
 > **Locais:**
 
 - Spawn
 - Mina Overworld
+- Mina VIP
 - Mina Nether
-- Loja
+- Caixas
 - Tabela de Liderança
 - Arena PvP
 
